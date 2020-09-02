@@ -4,6 +4,7 @@
 #include <windows.h>
 #include <limits>
 
+//@author Bryan Yakimisky, Last Updated September 2nd, 2020
 using namespace std;
 
 const int WIDTH = 50;
